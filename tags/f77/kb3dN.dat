@@ -1,0 +1,8 @@
+2       !isys, 1=electron, 2=nuclear
+2.2 1.4  !p0 pf
+0.3 0.2 ! dpz dft
+60 0.0     ! ntime time0
+1 3 1  ! ISTEPF(ISTF)  mod_store ifk
+0      ! nplot if 1 then outputting snapshots of momentum distributions during its relaxation and next lines are time instants when the distribution is desired
+1 15 30 45 60 !30 40 50 60
+                                                                            ****

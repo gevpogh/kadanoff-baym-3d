@@ -1,0 +1,10 @@
+1       !isys, 1=electron, 2=nuclear
+132. 4.2e-3  .067 12.998 0 0.4 !aindb,eryd,amee,epsb,isck,akp
+1.2 50.e-3 19.4e-3 6.85 2.1 !.25 30.e-3 6.e-3 6.85 2.1 !ra,rhb,rgam,rgam1,rgam2
+2.2 1.4  !p0 PF
+0.3 4.0 ! DPZ DFT
+10 0.0     ! ntime time0
+1 3 1  ! ISTEPF(ISTF)  mod_store ifk
+0      ! nplot
+1 15 30 45 60 !30 40 50 60
+                                                                            ****
